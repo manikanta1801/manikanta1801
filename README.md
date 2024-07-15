@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giri Sai Manikanta and I'm a BBA - Business Analytics Student, from KL University Vijayawada</h2>
+<h2 align="left">Hi 👋! My name is Giri Sai Manikanta and I'm a BBA - Business Analytics Graduate , from KL University Vijayawada</h2>
 
 ###
 
